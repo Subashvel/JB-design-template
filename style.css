@@ -1,0 +1,184 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.one .home{
+    background-image: url(/image/mountain-bg.jpg);
+    background-repeat: no-repeat;
+}
+.jptext{
+    margin: -500px 50px 0px 0px;
+    text-align: right;
+    position: relative; 
+}
+.jptext .agency{
+    text-align: right;
+    color: white;
+   font-size: 60px;
+   }
+   @media only screen and (max-width: 700px) {
+
+    .jptext .agency {
+        text-align: right;
+        color: white;
+       font-size: 40px;
+     }
+     .jptext .create{
+        text-align: right;
+        color: rgb(199, 192, 192);
+       font-size: 10px;
+       }
+ }
+.jptext .create{
+       text-align: right;
+       color: rgb(199, 192, 192);
+      font-size: 20px;
+      }
+/* ........................................................................................................ */
+.two{
+    background-image: url(/image/second-angle.png);
+    height: 100%;
+    background-repeat: no-repeat;
+ 
+}
+.second-angle{
+    padding-top: 200px;
+}
+.rectang{
+    display: flex;
+}
+.rectang .rect{
+    height: 430px;
+    width: 100px;
+    background-color: #555;  
+} 
+.rectang .rectin{
+    height: 200px;
+    width: 20px;
+    background-color: rgb(245, 210, 14); 
+    align-items: center;
+    margin: -50px 20px 20px 20px;
+}
+.rectang .content{
+    margin: 70px;
+}
+.rectang .content .hello{
+    line-height: 1;
+}
+.rectang .content .we{
+    line-height: 1.5;
+}
+
+.fiv{
+    position: relative;
+}
+.yellowline{
+    position: absolute;
+    margin-left: 80px;
+  margin-top: 150px;
+}
+
+/* ......................................................................................................................... */
+
+.thirdbox{
+margin-top: 80px;
+}
+.thirdbox .box1 .get{
+height: 400px;
+width: 400px;
+background-color: yellow;
+margin-left: 100px;
+box-shadow: -50px 50px;
+}
+.box1 h5{
+    padding: 100px;
+}
+.box2 .prounder .underline{
+   width: 400px;
+   height: 20px;
+   background-color: black;
+}
+.shift .whlight{
+    width: 260px;
+    height: 260px;
+    background-color: rgb(142, 153, 153);
+    margin: 370px 0px 0px 287px;
+}
+.shift .bline{
+   margin-top: -350px;
+   position: absolute;
+}
+.shift .ybox{
+    position: relative;
+    width: 300px;
+    height: 350px;
+    background-color: rgb(236, 209, 52);
+    margin: -520px 0px 0px 50px;
+}
+.shift .shiftf1 p{
+    background-color: black;
+    width: 300px;
+    height: 70px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 30px;
+}
+.shift .shiftf1{
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.shift .shoe{
+    padding: 0px 0px 0px 30px;
+}
+.shift .viewmore p{
+    background-color: black;
+    width: 150px;
+    height:45px;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 20px;
+}
+.shift .viewmore{
+    padding-top: 130px;
+}
+/* ........................................................................................................................ */
+
+.last .ing{
+    margin:-500px 0px 0px 80px;
+    box-shadow: -40px 40px;
+    
+}
+.last .ylinelast{
+    margin: 0px 0px 0px 130px;
+}
+.four .last{
+    margin-top: 200px;
+}
+.four .let {
+    font-size: 80px;
+    line-height: 1;
+    color: rgb(235, 235, 79);
+    margin-bottom: 150px;
+    /* margin: 400px 0px 0px 230px; */
+}
+.last .man {
+    margin: 10px 0px 0px 70px;
+    position: absolute;
+   
+}
+.last .blinelast{
+    margin: -250px 0px 0px 50px;
+    position: relative;
+}
+.last .let{
+    font-size: 90px;
+    line-height: 1;
+    margin: 400px 0px 0px 230px;
+}
+.last p{
+    font-size: 20px;
+    margin: 100px 0px 0px 50px;
+}
